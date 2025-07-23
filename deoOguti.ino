@@ -3,8 +3,8 @@
 #include <time.h>
 
 // Wi-Fi credentials
-const char *ssid = "@dallas";
-const char *password = "dallas@21";
+const char *ssid = "DeoOguti";
+const char *password = "deo";
 
 // Authentication
 const char *ADMIN_USER = "OGUTI";
